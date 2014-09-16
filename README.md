@@ -1,4 +1,4 @@
-BorjaMartin.github.io
-=====================
+Official Personal Website
+=========================
 
-Personal Website using Github generator
+   bundle exec jekyll serve
